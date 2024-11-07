@@ -1,5 +1,6 @@
 <section>
 <h1 align="center">Hola, Soy Andres 😄</h1>
+<img width="80px" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRmMzBvdTQxaXh2bHFza291dHh5MTBmcnMya3YyZDMxd3lhMjRzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X4PzTrSbyIaDG8Tftj/giphy.webp">
 <h2>Desarrollador de Software Junior 💻</h2>
 </section>
 <section>
