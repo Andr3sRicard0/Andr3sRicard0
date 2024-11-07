@@ -20,7 +20,7 @@
 <p align="justify">En mi trayectoria, he desarrollado software tanto para empresas como en proyectos propios, lo cual me ha ayudado a crecer y mejorar como programador.</p>
 </section>
 <section>
-<h3>Estádisticas 🎈</h3>
+<h3>Estadísticas 🎈</h3>
 <img width="49%" height="200px" src="https://camo.githubusercontent.com/43066d4858fe49f8e0b42d0a557e6f2702a869d36dc7b54d597af9fd40b78ca1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416e64723373526963617264302673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666633835372669636f6e5f636f6c6f723d38616339323626746578745f636f6c6f723d6461663764632662675f636f6c6f723d31353135313526686964653d7374617273">
 <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andr3sRicard0&layout=compact&text_color=daf7dc&bg_color=151515">
 </section>
